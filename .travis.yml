@@ -1,0 +1,3 @@
+language: objective-c
+
+script: xctool -project NSUserDefaults-CJAGeometry.xcodeproj -scheme "NSUserDefaults-CJAGeometry" build test -sdk iphonesimulator -arch i386
