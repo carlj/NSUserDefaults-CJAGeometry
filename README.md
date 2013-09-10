@@ -1,6 +1,8 @@
 #NSUserDefaults-CJAGeometry
 Is a simple Category for handling `CGPoint`, `CGSize`, `CGRect`, `CGAffineTransform`, `UIEdgeInsets` and `UIOffset` with your [`NSUserDefaults`](https://developer.apple.com/library/ios/documentation/cocoa/reference/foundation/Classes/NSUserDefaults_Class/Reference/Reference.html)
 
+[![Build Status](https://travis-ci.org/carlj/NSUserDefaults-CJAGeometry.png?branch=master)](https://travis-ci.org/carlj/NSUserDefaults-CJAGeometry)
+
 ##Installation
 Just drag & drop the [`NSUserDefaults+CJAGeometry.h`](/NSUserDefaults-CJAGeometry/NSUserDefaults+CJAGeometry.m) and [`NSUserDefaults+CJAGeometry.m`](/NSUserDefaults-CJAGeometry/NSUserDefaults+CJAGeometry.m) to your project.
 
