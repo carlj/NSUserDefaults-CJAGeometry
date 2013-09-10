@@ -4,7 +4,7 @@ Is a simple Category for handling `CGPoint`, `CGSize`, `CGRect`, `CGAffineTransf
 [![Build Status](https://travis-ci.org/carlj/NSUserDefaults-CJAGeometry.png?branch=master)](https://travis-ci.org/carlj/NSUserDefaults-CJAGeometry)
 
 ##Installation
-Just drag & drop the [`NSUserDefaults+CJAGeometry.h`](/NSUserDefaults-CJAGeometry/NSUserDefaults+CJAGeometry.m) and [`NSUserDefaults+CJAGeometry.m`](/NSUserDefaults-CJAGeometry/NSUserDefaults+CJAGeometry.m) to your project.
+Just drag & drop the [`NSUserDefaults+CJAGeometry.h`](/NSUserDefaults+CJAGeometry/NSUserDefaults+CJAGeometry.m) and [`NSUserDefaults+CJAGeometry.m`](/NSUserDefaults+CJAGeometry/NSUserDefaults+CJAGeometry.m) to your project.
 
 ##Usage
 First of all take a look at the [Example](Example/Classes/ExampleViewController.m)
